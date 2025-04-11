@@ -1,24 +1,20 @@
-# Hi, I'm Dangelo 👋
+# Cloud Resume Project
 
-🌐 Aspiring Cloud Engineer | Healthcare & Tech-Savvy | Exploring Google Cloud | Problem-Solver | Team Leader
+This is my cloud resume project, inspired by the Cloud Resume Challenge. It's a work in progress as I continue learning Google Cloud Platform.
 
----
+## Goals:
+- Deploy a personal resume site using GCP
+- Practice working with Cloud Storage, IAM, and basic hosting
+- Track progress toward Google Cloud certification
 
-### 🚀 About Me
-I'm transitioning into cloud technology with a background in healthcare, safety, tech support, and team leadership. I'm currently building real-world experience with Google Cloud Platform (GCP) while preparing for formal certification.
+## Tech Stack:
+- Google Cloud Platform (GCP)
+- HTML / Static Hosting
+- Markdown Documentation
 
-🔹 Passionate about cloud infrastructure, scalable systems, and process improvement  
-🔹 Exploring GCP tools like Cloud Storage, BigQuery, IAM, and Cloud Functions  
-🔹 Always learning and open to opportunities in cloud support, IT ops, or DevOps
-
----
-
-### 📂 Projects
-- [Cloud Resume Project](https://github.com/Dmercado122/cloud-resume-project) – Hosting my personal resume on GCP
-- More coming soon...
+## Project Screenshots
+Screenshots of GCP configuration and deployment will be placed in the `screenshots/` folder.
 
 ---
 
-### 📫 Contact
-- Email: dangelomercado@gmail.com
-- Resume: [View Here](https://example.com/Dangelo_Mercado_Resume.pdf)
+📝 [Download my resume here](https://example.com/Dangelo_Mercado_Resume.pdf)
